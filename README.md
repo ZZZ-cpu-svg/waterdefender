@@ -1,8 +1,8 @@
-Water Defender 6.4
+Water Defender 6.5
 
 Hash-Based Real-Time Threat Detection (Educational Edition)
 
-Water Defender 6.4 is a Python-based, single-binary endpoint monitoring utility compiled with PyInstaller. Designed strictly for security research and academic experimentation, it provides user-mode real-time protection (RTP) through filesystem event monitoring and SHA-256 hash verification.
+Water Defender 6.5 is a Python-based, single-binary endpoint monitoring utility compiled with PyInstaller. Designed strictly for security research and academic experimentation, it provides user-mode real-time protection (RTP) through filesystem event monitoring and SHA-256 hash verification.
 
 Platform Support
 
@@ -62,15 +62,13 @@ Core Capabilities
 
 Usage Instructions
 
-Water Defender 6.4 is a standalone executable and requires no installation.
+Water Defender 6.5 is a standalone executable and requires no installation.
 
-1. Extract Water-Defender 6.4.zip.
+1. Extract Water-Defender 6.5.exe.
 
-2. Right-click WaterDefender.exe.
+2. Select "Run as administrator" (Required for full filesystem access and quarantine permissions).
 
-3. Select "Run as administrator" (Required for full filesystem access and quarantine permissions).
-
-4. Click "START SHIELD" in the GUI to initialize real-time monitoring.
+3. Click "START SHIELD" in the GUI to initialize real-time monitoring.
 
 Note: The GUI will automatically detect and list all currently mounted volumes. USB drives will be added to the watch list dynamically upon insertion.
 
@@ -90,7 +88,7 @@ Important Disclaimer
 
 This software is provided for EDUCATIONAL PURPOSES ONLY.
 
-• Water Defender 6.4 is NOT a replacement for commercial Endpoint Detection and Response (EDR) or Antivirus solutions.
+• Water Defender 6.5 is NOT a replacement for commercial Endpoint Detection and Response (EDR) or Antivirus solutions.
 
 • The author assumes NO LIABILITY for system damage, data loss, security breaches, or any consequences arising from the use of this tool.
 
