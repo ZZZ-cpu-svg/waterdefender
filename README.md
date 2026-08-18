@@ -98,7 +98,7 @@ This software is provided for EDUCATIONAL PURPOSES ONLY.
 
 License
 
-Copyright © 2026 [ZZZ-cpu-svg]. All rights reserved.
+Copyright © 2026 [ZZTalksComputers]. All rights reserved.
 
 This software is provided "as is", without warranty of any kind, express or implied. Redistribution for educational purposes is permitted provided this copyright notice is included.
 
