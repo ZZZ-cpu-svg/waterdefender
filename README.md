@@ -102,6 +102,12 @@ Copyright © 2026 [ZZZ-cpu-svg]. All rights reserved.
 
 This software is provided "as is", without warranty of any kind, express or implied. Redistribution for educational purposes is permitted provided this copyright notice is included.
 
+Downloads
+All releases and source code are available at the official repository:
+GitHub Repository:
+
+https://github.com/ZZZ-cpu-svg/waterdefender/releases
+Please download from the Releases section to obtain stable builds.
 
 ------
 
