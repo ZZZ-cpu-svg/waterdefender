@@ -1,4 +1,4 @@
-Water Defender 6.5
+Water Defender 6.5(🦀)
 
 Hash-Based Real-Time Threat Detection (Educational Edition)
 
