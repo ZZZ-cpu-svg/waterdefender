@@ -106,6 +106,7 @@ GitHub Repository:
 
 https://github.com/ZZZ-cpu-svg/waterdefender/releases
 Please download from the Releases section to obtain stable builds.
+A mirror download is also available for faster access: https://1854158522.share.123pan.cn/123pan/DJiXvd-LqG0h?pwd=UGtg#
 
 ------
 
