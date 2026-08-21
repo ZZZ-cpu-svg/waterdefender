@@ -105,8 +105,8 @@ All releases and source code are available at the official repository:
 GitHub Repository:
 
 https://github.com/ZZZ-cpu-svg/waterdefender/releases
-Please download from the Releases section to obtain stable builds.
-A mirror download is also available for faster access: https://1854158522.share.123pan.cn/123pan/DJiXvd-uHh8h?pwd=cHwC#
+Please download from the Releases section to obtain stable builds.(English)
+中文站请到:https://1854158522.share.123pan.cn/123pan/DJiXvd-oQJ0h?pwd=dqAD#
 
 ------
 
