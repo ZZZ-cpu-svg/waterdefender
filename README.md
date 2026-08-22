@@ -106,7 +106,7 @@ GitHub Repository:
 
 https://github.com/ZZTalksComputers/waterdefender/releases
 Please download from the Releases section to obtain stable builds.(English)
-中文站请到:https://1854158522.share.123pan.cn/123pan/DJiXvd-A2G8h?pwd=oH7A#
+中文站请到:https://1854158522.share.123pan.cn/123pan/DJiXvd-SHh8h?pwd=Owth#
 
 ------
 
