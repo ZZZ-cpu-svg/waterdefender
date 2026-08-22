@@ -2,7 +2,7 @@ Water Defender 6.5(🦀)
 
 Hash-Based Real-Time Threat Detection (Educational Edition)
 
-Water Defender 6.5 is a Python-based, single-binary endpoint monitoring utility compiled with PyInstaller. Designed strictly for security research and academic experimentation, it provides user-mode real-time protection (RTP) through filesystem event monitoring and SHA-256 hash verification.
+Water Defender 6.5 is a Python-based, single-binary endpoint monitoring utility compiled with PyInstaller. Designed strictly for security research and academic experimentation, it provides user-mode real-time protection (RTP) through filesystem event monitoring and SHA-256 hash verification.This program does not support automatic or manual updates. To ensure continuous real-time protection, users must manually download the latest version daily from the official website.
 
 Platform Support
 
